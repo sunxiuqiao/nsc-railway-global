@@ -1,0 +1,21 @@
+{
+  "scenes": [
+    {
+      "children": [
+        { "id": "node_id5", "name": "node_id5" },
+        {
+          "id": "node_id5",
+          "name": "node_id5",
+          "sphere": [
+            -2177750.22367078,
+            4388740.45370872,
+            4070066.41567604,
+            29.7973823039038
+          ]
+        }
+      ],
+      "id": "fangzi",
+      "name": "fangzi"
+    }
+  ]
+}
